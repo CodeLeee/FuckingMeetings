@@ -2,7 +2,7 @@
 腾讯会议定时入会APP，为安卓开发，Powered by Auto.js
 ## 【下载】
 
-安卓下载：[link](https://github.com/CodeLeee/FuckingMeetings/releases)
+[安卓下载](https://github.com/CodeLeee/FuckingMeetings/releases)
 
 ## 【概述】
 
